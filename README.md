@@ -5,9 +5,9 @@
 - 📫 How to reach me ... You could try [LinkedIn](https://www.linkedin.com/in/leandro-borges-ferreira/).
 ![Background picture](https://github.com/PhilSciMath/assets/blob/main/profile_picture.png)
 ---
-| Python | Linux | C |
-|--------|-------|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> |
+| Python | C | Arch Linux | Linux | LaTeX | Physics |
+|--------|---|------------|-------|-------|---------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/> | <img src="https://img.icons8.com/ios-filled/50/000000/atom.png" alt="Physics" width="40" height="40"/> |
 
 <!---
 PhilSciMath/PhilSciMath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
